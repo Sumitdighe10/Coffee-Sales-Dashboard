@@ -14,7 +14,7 @@ This Excel-based interactive dashboard analyzes coffee sales data from 2019-2022
 - **Data Processing**: Excel formulas for transformation and aggregation
 
 ## Screenshots 📸
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
 ## How to Use
 1. Download `Coffee_Sales_Dashboard.xlsx`
