@@ -93,7 +93,7 @@ The final dashboard includes the following **visual elements**:
 ---
 
 ## 📸 Screenshots  
-![Dashboard Screenshot](link_to_your_screenshot)  
+![Dashboard Screenshot](Dashboard%20Screenshot.png)  
 
 ---
 
